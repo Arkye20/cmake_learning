@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/cmake_learning/multi/calc/add.cpp
+
+/workspaces/cmake_learning/multi/calc/div.cpp
+
+/workspaces/cmake_learning/multi/calc/mult.cpp
+
+/workspaces/cmake_learning/multi/calc/sub.cpp
+

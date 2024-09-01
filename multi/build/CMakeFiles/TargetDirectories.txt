@@ -1,0 +1,14 @@
+/workspaces/cmake_learning/multi/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cmake_learning/multi/build/CMakeFiles/edit_cache.dir
+/workspaces/cmake_learning/multi/build/calc/CMakeFiles/rebuild_cache.dir
+/workspaces/cmake_learning/multi/build/calc/CMakeFiles/edit_cache.dir
+/workspaces/cmake_learning/multi/build/calc/CMakeFiles/calc.dir
+/workspaces/cmake_learning/multi/build/sort/CMakeFiles/rebuild_cache.dir
+/workspaces/cmake_learning/multi/build/sort/CMakeFiles/edit_cache.dir
+/workspaces/cmake_learning/multi/build/sort/CMakeFiles/sort.dir
+/workspaces/cmake_learning/multi/build/test1/CMakeFiles/rebuild_cache.dir
+/workspaces/cmake_learning/multi/build/test1/CMakeFiles/edit_cache.dir
+/workspaces/cmake_learning/multi/build/test1/CMakeFiles/app1.dir
+/workspaces/cmake_learning/multi/build/test2/CMakeFiles/rebuild_cache.dir
+/workspaces/cmake_learning/multi/build/test2/CMakeFiles/edit_cache.dir
+/workspaces/cmake_learning/multi/build/test2/CMakeFiles/app2.dir

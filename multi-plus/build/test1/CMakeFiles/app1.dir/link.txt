@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app1.dir/calc.cpp.o  -o ../../bin/app1   -L/workspaces/cmake_learning/multi/lib  -Wl,-rpath,/workspaces/cmake_learning/multi/lib ../../lib/libcalc.a 
