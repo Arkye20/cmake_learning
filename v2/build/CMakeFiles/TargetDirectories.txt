@@ -1,0 +1,3 @@
+/mnt/d/Study/Projects/cmake_learning2/v2/build/CMakeFiles/calc.dir
+/mnt/d/Study/Projects/cmake_learning2/v2/build/CMakeFiles/edit_cache.dir
+/mnt/d/Study/Projects/cmake_learning2/v2/build/CMakeFiles/rebuild_cache.dir

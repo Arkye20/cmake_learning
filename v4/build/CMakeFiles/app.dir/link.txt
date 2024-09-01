@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/mnt/d/Study/Projects/cmake_learning2/v4/shared  -Wl,-rpath,/mnt/d/Study/Projects/cmake_learning2/v4/shared -lcalc 
