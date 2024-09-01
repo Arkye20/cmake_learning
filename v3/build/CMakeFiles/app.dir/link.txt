@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/mnt/d/Study/Projects/cmake_learning2/v3/static  -Wl,-rpath,/mnt/d/Study/Projects/cmake_learning2/v3/static -lcalc 
+/usr/bin/c++     CMakeFiles/app.dir/main.cpp.o  -o app   -L/workspaces/cmake_learning/v3/static  -Wl,-rpath,/workspaces/cmake_learning/v3/static -lcalc 
